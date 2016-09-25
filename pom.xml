@@ -9,8 +9,8 @@
 	<name>CounterWebApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<jdk.version>1.7</jdk.version>
-		<spring.version>4.1.1.RELEASE</spring.version>
+		<jdk.version>1.8</jdk.version>
+		<spring.version>4.0.5.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
 		<logback.version>1.0.13</logback.version>
